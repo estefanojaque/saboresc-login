@@ -1,0 +1,67 @@
+  {
+    "promotion": [
+      {
+        "id": "1",
+        "promotion": "Descuento de Bienvenida",
+        "codpromotion": "DESBIENVENIDODES",
+        "description": "Obtén un 15% de descuento en tu primera orden.",
+        "validity": "10/09/2024 - 30/09/2024"
+      },
+      {
+        "id": "2",
+        "promotion": "Descuento por primera compra",
+        "codpromotion": "DESFIRSTDES",
+        "description": "Obtén un 10% de descuento en tu segunda orden.",
+        "validity": "15/09/2024 - 10/10/2024"
+      },
+      {
+        "id": "3",
+        "promotion": "Descuento por Referido",
+        "codpromotion": "REFERFRIEND10",
+        "description": "Recibe un 10% de descuento cuando refieras a un amigo.",
+        "validity": "20/09/2024 - 20/10/2024"
+      },
+      {
+        "id": "4",
+        "promotion": "Descuento de Fin de Semana",
+        "codpromotion": "WEEKEND15",
+        "description": "Disfruta un 15% de descuento en pedidos realizados durante el fin de semana.",
+        "validity": "01/10/2024 - 31/10/2024"
+      },
+      {
+        "id": "5",
+        "promotion": "Descuento por Compra Mínima",
+        "codpromotion": "MINPURCHASE20",
+        "description": "Obtén un 20% de descuento en compras mayores a $50.",
+        "validity": "05/10/2024 - 15/11/2024"
+      },
+      {
+        "id": "6",
+        "promotion": "Descuento por Membresía",
+        "codpromotion": "MEMBER25",
+        "description": "Los miembros de la plataforma obtienen un 25% de descuento.",
+        "validity": "01/11/2024 - 30/11/2024"
+      },
+      {
+        "id": "7",
+        "promotion": "Descuento Navideño",
+        "codpromotion": "NAVIDAD30",
+        "description": "Aprovecha un 30% de descuento en la temporada navideña.",
+        "validity": "15/12/2024 - 31/12/2024"
+      },
+      {
+        "id": "8",
+        "promotion": "Descuento por Feedback",
+        "codpromotion": "FEEDBACK5",
+        "description": "Obtén un 5% de descuento por dejar un comentario después de tu compra.",
+        "validity": "01/11/2024 - 30/11/2024"
+      },
+      {
+        "id": "9",
+        "promotion": "Descuento por Cumpleaños",
+        "codpromotion": "BIRTHDAY10",
+        "description": "Celebra tu cumpleaños con un 10% de descuento en cualquier pedido.",
+        "validity": "01/12/2024 - 31/12/2024"
+      }
+    ]
+  }
